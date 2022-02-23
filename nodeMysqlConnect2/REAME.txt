@@ -1,0 +1,15 @@
+// 1 
+https://medium.com/javascript-espa%C3%B1ol/configuraci%C3%B3n-de-nodemon-en-un-servidor-node-js-6fde6275b50f
+
+// 2
+https://www.youtube.com/watch?v=27JCqmykNdc
+
+// 3 == nodemon connect
+ https://www.codegrepper.com/code-examples/shell/nodemon+in+package.json
+
+//4 
+
+
+
+hacer un npm i
+
