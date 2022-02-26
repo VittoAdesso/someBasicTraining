@@ -87,7 +87,7 @@ const userModel3 = sequelize.define('comandas',{
                 console.log('ERROR', error)
         })
 
-    //LEVANTO SERVIDOR 
+         //LEVANTO SERVIDOR 
 
 app.listen( 3000, () => {
     console.log('Server is up into host:3000'); 
